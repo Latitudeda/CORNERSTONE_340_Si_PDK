@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'CORNERSTONE SOI340nm pdk documentation'
-copyright = '2024, Latitudeda.com'
+copyright = '2025, Latitudeda.com'
 author = 'latitudeda.com'
 
 release = '1.0'
